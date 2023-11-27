@@ -1,0 +1,25 @@
+<dictionary>
+    <entry>
+        <word>apple</word>
+        <definition>a round fruit with red or green skin and a whitish interior
+		Example : Kashmiri Apple
+		</definition>
+    </entry>
+    <entry>
+        <word>banana</word>
+        <definition>a long, curved fruit with a yellow skin</definition>
+    </entry>
+    <entry>
+        <word>cherry</word>
+        <definition>a small, round stone fruit that is typically bright or dark red
+		</definition>
+    </entry>
+    <entry>
+        <word>orange</word>
+        <definition>a round, citrus fruit with a tough bright orange or red skin</definition>
+    </entry>
+    <entry>
+        <word>grape</word>
+        <definition>a small, round, purple or pale green fruit that is typically eaten in bunches</definition>
+    </entry>
+</dictionary>
